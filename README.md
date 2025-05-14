@@ -6,4 +6,6 @@
 
 ## Medium
 
+- [Tabs]()
+
 ## Easy
