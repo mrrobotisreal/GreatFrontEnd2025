@@ -6,6 +6,6 @@
 
 ## Medium
 
-- [Tabs]()
+- [Tabs](https://github.com/mrrobotisreal/GreatFrontEnd2025/tree/main/tabs)
 
 ## Easy
